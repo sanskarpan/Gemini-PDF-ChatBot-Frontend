@@ -32,7 +32,7 @@ This frontend serves as the user interface for the Gemini PDF ChatBot. It allows
 * **Axios**: For making API requests to the backend.
 
 ### More
-You can learn more about this project from ![this](https://docs.google.com/document/d/17V5GnFC5bBrXAqQiHLoP3sWXrRsx17ECFlh8xQqZbOY/edit) overall documentation.
+You can learn more about this project from [this](https://docs.google.com/document/d/17V5GnFC5bBrXAqQiHLoP3sWXrRsx17ECFlh8xQqZbOY/edit) overall documentation.
 
 ### Overall Flow
 ![overall_flow.png](overall_flow.png)
