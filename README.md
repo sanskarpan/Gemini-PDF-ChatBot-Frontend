@@ -30,3 +30,6 @@ This frontend serves as the user interface for the Gemini PDF ChatBot. It allows
 * **React**: For building the user interface.
 * **CSS**: For styling the application.
 * **Axios**: For making API requests to the backend.
+
+### Overall Flow
+![overall_flow.png](overall_flow.png)
