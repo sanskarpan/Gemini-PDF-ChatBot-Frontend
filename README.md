@@ -9,6 +9,7 @@ This frontend serves as the user interface for the Gemini PDF ChatBot. It allows
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/sanskarpan/Gemini-PDF-ChatBot-Frontend.git
+   cd Gemini-PDF-ChatBot-Frontend
    ```
 2. **Install dependencies:**
     ```bash
